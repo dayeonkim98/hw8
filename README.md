@@ -1,1 +1,2 @@
-# hw8
+Browse to your favorite web site, and inspect the visually-largest element on the page. What type of element (tag?) is it? What styling does it have? What tags are used to enclose textual content?
+ - (<img height="92px" src="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="272px" id="hplogo" alt="Google" title="Google" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)">)
